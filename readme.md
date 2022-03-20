@@ -19,10 +19,6 @@ Karena solidity ini menggunakan etherium, maka akan ada Gas pada setiap transaks
 - Gas sebenarnya untuk mengatasi serangan Denial of Service dari infity loop
 - Sistem gas hampir sama seperti Kwh listrik. Namun, pada etherium, yang memulai suatu transaksi yang menentukan harga gas, yang kemudian miner dapat memilih untuk menerima atau tidak
 
-Awalnya, tidak diperlukan pengaturan untuk memulai dengan Solidty. Ethereum menyediakan IDE online yang disebut Remix, tempat anda dapat mengembangkan dan menggunakan kontrak pintar anda. Untuk tujuan pembelajaran, kita akan menggunakan hal yang sama di seluruh seri ini.
-
-Saat anda [membuka Remix di browser anda](https://remix.ethereum.org/).
-
 Pada project ini saya belajar tentang banyak hal seperti:
 - **Token ERC20**
 - **Solidity**
