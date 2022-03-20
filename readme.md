@@ -21,7 +21,7 @@ Karena solidity ini menggunakan etherium, maka akan ada Gas pada setiap transaks
 
 Awalnya, tidak diperlukan pengaturan untuk memulai dengan Solidty. Ethereum menyediakan IDE online yang disebut Remix, tempat anda dapat mengembangkan dan menggunakan kontrak pintar anda. Untuk tujuan pembelajaran, kita akan menggunakan hal yang sama di seluruh seri ini.
 
-Saat anda [membuka Remix di browser anda](https://remix.ethereum.org/), anda akan melihat layar seperti di bawah ini.
+Saat anda [membuka Remix di browser anda](https://remix.ethereum.org/).
 
 Pada project ini saya belajar tentang banyak hal seperti:
 - **Token ERC20**
